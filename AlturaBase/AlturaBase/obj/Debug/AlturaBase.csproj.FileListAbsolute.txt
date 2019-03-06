@@ -1,0 +1,10 @@
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\AlturaBase\bin\Debug\AlturaBase.exe.config
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\AlturaBase\bin\Debug\AlturaBase.exe
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\AlturaBase\bin\Debug\AlturaBase.pdb
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\AlturaBase\bin\Debug\Area.dll
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\AlturaBase\bin\Debug\Area.pdb
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\AlturaBase\obj\Debug\AlturaBase.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\AlturaBase\obj\Debug\AlturaBase.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\AlturaBase\obj\Debug\AlturaBase.csproj.CopyComplete
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\AlturaBase\obj\Debug\AlturaBase.exe
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\AlturaBase\obj\Debug\AlturaBase.pdb

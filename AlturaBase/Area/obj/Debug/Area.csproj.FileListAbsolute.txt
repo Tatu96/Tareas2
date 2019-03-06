@@ -1,0 +1,6 @@
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\Area\bin\Debug\Area.dll
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\Area\bin\Debug\Area.pdb
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\Area\obj\Debug\Area.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\Area\obj\Debug\Area.dll
+C:\Users\oscar\Documents\GitHub\Tareas\AlturaBase\Area\obj\Debug\Area.pdb
