@@ -1,0 +1,9 @@
+C:\Users\oscar\Documents\GitHub\Tareas1\BuenasNoches\Noches\bin\Debug\Noches.exe.config
+C:\Users\oscar\Documents\GitHub\Tareas1\BuenasNoches\Noches\bin\Debug\Noches.exe
+C:\Users\oscar\Documents\GitHub\Tareas1\BuenasNoches\Noches\bin\Debug\Noches.pdb
+C:\Users\oscar\Documents\GitHub\Tareas1\BuenasNoches\Noches\bin\Debug\Metodos.dll
+C:\Users\oscar\Documents\GitHub\Tareas1\BuenasNoches\Noches\obj\Debug\Noches.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\GitHub\Tareas1\BuenasNoches\Noches\obj\Debug\Noches.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Documents\GitHub\Tareas1\BuenasNoches\Noches\obj\Debug\Noches.csproj.CopyComplete
+C:\Users\oscar\Documents\GitHub\Tareas1\BuenasNoches\Noches\obj\Debug\Noches.exe
+C:\Users\oscar\Documents\GitHub\Tareas1\BuenasNoches\Noches\obj\Debug\Noches.pdb
