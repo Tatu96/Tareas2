@@ -1,0 +1,7 @@
+C:\Users\oscar\Documents\GitHub\Tareas\Principal\Principal\bin\Debug\Principal.exe.config
+C:\Users\oscar\Documents\GitHub\Tareas\Principal\Principal\bin\Debug\Principal.exe
+C:\Users\oscar\Documents\GitHub\Tareas\Principal\Principal\bin\Debug\Principal.pdb
+C:\Users\oscar\Documents\GitHub\Tareas\Principal\Principal\obj\Debug\Principal.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\GitHub\Tareas\Principal\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Documents\GitHub\Tareas\Principal\Principal\obj\Debug\Principal.exe
+C:\Users\oscar\Documents\GitHub\Tareas\Principal\Principal\obj\Debug\Principal.pdb
